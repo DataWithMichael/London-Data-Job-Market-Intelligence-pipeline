@@ -2,4 +2,29 @@
 
 ## Summary
 
-This is a pipeline that scrapes data from Job sites (LinkedIn, Indeed, Reed), to search for data roles in London, and uses an AI agent to find which tools and technologies are currently in favour. Then ranks these and puts them onto a comprehensive Streamlit web app.
+Built an end-to-end data platform that ingests, models, and analyses live London data engineering job postings to identify which tools, certifications, and skills are actually in demand, and to guide my own job search with data instead of guesswork.
+
+## Work Flow
+
+- Uses _____ to look on job sites
+- Using a list of stored keywords and filters, finds all the relevant data job roles in London
+- Triggers an AI agent to scan the job posting's requirements for all the tools and technologies required or favoured
+- Stores these in a Dictionary, and counts how many times they are mentioned
+- Stores data such as:
+    - Tools
+    - Technologies
+    - FrequencyMentioned
+    - JobSite
+    - FavouredJobsite
+
+
+
+### Job sites free APIs:
+Reed
+Adzuna
+Arbeitnow UK
+
+### Could Use:
+Apache Spark
+dbt
+MongoDB
