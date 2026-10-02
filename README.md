@@ -1,8 +1,9 @@
+# Tech Radar
 # London Data Job Market Roles Intelligence Pipeline
 
 ## Summary
 
-Built an end-to-end data platform that ingests, models, and analyses live London data engineering job postings to identify which tools, certifications, and skills are actually in demand, and to guide my own job search with data instead of guesswork.
+An end-to-end data platform that ingests, models, and analyses live London data engineering job postings to identify which tools, certifications, and skills are actually in demand, and to guide my own job search with data instead of guesswork.
 
 ## Work Flow
 
