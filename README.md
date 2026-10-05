@@ -18,6 +18,9 @@ An end-to-end data platform that ingests, models, and analyses live London data 
     - JobSite
     - FavouredJobsite
 
+- The flowchart is as follows:
+
+![alt text](image.png)
 
 
 ### Job sites free APIs:
